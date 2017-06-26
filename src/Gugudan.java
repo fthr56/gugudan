@@ -47,7 +47,7 @@ public class Gugudan {
 //		System.out.println(result);
 
 		System.out.println("구구단 중 출력할 단은? : ");
-        Scanner scanner = new Scanner(System.in);
+		Scanner scanner = new Scanner(System.in);
 		int number = scanner.nextInt();
 		
 		System.out.println(number *1);
